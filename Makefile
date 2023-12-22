@@ -1,2 +1,3 @@
 build:
-	GOOS=js GOARCH=wasm go build -o main.wasm
+	mkdir -p output
+	GOOS=js GOARCH=wasm go build -o output/main.wasm
