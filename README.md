@@ -1,5 +1,16 @@
 # PoC CosmosJS - Textual Mode
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+---
+
+![zondax_light](docs/assets/zondax_light.png#gh-light-mode-only)
+![zondax_dark](docs/assets/zondax_dark.png#gh-dark-mode-only)
+
+_Please visit our website at [zondax.ch](https://www.zondax.ch)_
+
+---
+
+## About the repository :book:
 
 ### Introduction
 The main goal of this project was to improve cosmosjs, a JavaScript package used for interacting with Cosmos-based blockchains, by adding support for a new data representation mode known as 'textual.' 
@@ -32,7 +43,7 @@ https://docs.cosmos.network/main/build/architecture/adr-020-protobuf-transaction
 https://docs.cosmos.network/main/build/architecture/adr-050-sign-mode-textual
 
 
-## About the repository
+## About the repository :gear:
 The current Proof of Concept (PoC) is implemented as a Go (Golang) project. In this project, we have developed a dedicated method for enabling textual signing of transactions. 
 This capability is achieved through the integration of the Cosmos Software Development Kit (SDK), which has been included in our project's framework.
 
