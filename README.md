@@ -39,8 +39,8 @@ The node, pre-configured with the metadata identification, would validate the si
 the responsibility of message-specific handling to the node, streamlining the workflow and enhancing the security and integrity of the transactions.
 
 ### ADR for Reference
-https://docs.cosmos.network/main/build/architecture/adr-020-protobuf-transaction-encoding
-https://docs.cosmos.network/main/build/architecture/adr-050-sign-mode-textual
+- [ADR20](https://docs.cosmos.network/main/build/architecture/adr-020-protobuf-transaction-encoding)
+- [ADR50](https://docs.cosmos.network/main/build/architecture/adr-050-sign-mode-textual)
 
 
 ## About the repository :gear:
